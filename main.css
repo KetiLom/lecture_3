@@ -63,14 +63,12 @@ p{
 	height: 23;
 	margin-bottom: 0px;
 }
-.ln1{
-	margin-top: 1px;
-}
 .box2{
 	background-color: #3D58A6;
 	width: 156px;
 	height: 5px;
 	margin-left: 30px;
+	margin-top: 6px;
 }
 .box3{
 	color: #707070;
